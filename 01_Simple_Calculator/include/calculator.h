@@ -1,5 +1,5 @@
 #ifndef CALCULATOR_H
-#define CALCULATOR_h
+#define CALCULATOR_H
 
 extern int choice;  // Declare Choice as a global variable
 
